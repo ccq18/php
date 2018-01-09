@@ -1,0 +1,1 @@
+base frolvlad/alpine-glibc:alpine-3.7
